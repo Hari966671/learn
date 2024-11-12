@@ -4,13 +4,4 @@ this first file im creating
 editing for the git fetch and git pull commands practice
 
 chaning to test the poll scm option
-
-second test 
-
-third test
-
-fourth test
-
-sixth test
-
-fifth test
+ new test
